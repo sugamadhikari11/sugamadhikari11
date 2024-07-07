@@ -72,5 +72,5 @@
 <br/><br/>
 
 <hr/>
- ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python,%20JavaScript-blue)
+
 
