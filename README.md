@@ -67,10 +67,10 @@
   <img width=325 align="center" src="https://streak-stats.demolab.com?user=sugamadhikari11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
- ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python,%20JavaScript-blue)
+
 
 <br/><br/>
 
 <hr/>
-
+ ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python,%20JavaScript-blue)
 
