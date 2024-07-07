@@ -1,10 +1,12 @@
-  (https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sugamadhikari11.sugamadhikari11" />
 
 <h1 align="center">
-
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sugam+Adhikari!;" />
+
 </h1>
+![Hi There, I am Meghna Srivastaa](https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
+
 
 <h3 align="center">A passionate Data Scientist student from Nepal 🇳🇵</h3>
 
