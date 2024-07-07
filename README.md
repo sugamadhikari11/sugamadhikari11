@@ -61,13 +61,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <img src="https://github-readme-stats.vercel.app/api?username=sugamadhikari11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamadhikari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img width=390 src="https://github-readme-streak-stats-sugamadhikari11.vercel.app/?user=sugamadhikari11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-sugamadhikari11.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <img width="390" src="https://github-readme-stats.vercel.app/api?username=sugamadhikari11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&border_radius=10" height="150" alt="stats graph"  />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamadhikari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&border_radius=10" height="150" alt="languages graph"  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img width=325 align="center" src="https://github-readme-stats-sugamadhikari11.vercel.app/api/top-langs/?username=sugamadhikari11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://streak-stats.demolab.com?user=sugamadhikari11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <br/><br/>
