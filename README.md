@@ -1,7 +1,7 @@
 
 
  <div align="center">
- <img align="center" src="https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg" />
+ <img align="center" src="https://i.pinimg.com/736x/b0/9a/1e/b09a1ebd682eca896586fb7e6a19b1bc.jpg" />
  </div>
  <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sugamadhikari11.sugamadhikari11" />
