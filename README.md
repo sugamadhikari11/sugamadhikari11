@@ -17,10 +17,7 @@
 <div align="center">
  
  🔭 I’m currently studying in a **Sunway College** affilated with **BCU(UK)**
- 
- 🌱 I’m currently learning **Django, React, Larvel, DataVisualization, TransferLearning**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
