@@ -67,9 +67,6 @@
 <p align="center">Overview of my coding activity, top languages, and contribution streak</p>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugamadhikari11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="190" alt="Sugam Adhikari GitHub statistics - commits, stars, and issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamadhikari11&locale=en&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&hide=Jupyter%20Notebook" height="190" alt="Sugam Adhikari most used programming languages on GitHub" />
-  <br/>
   <img width="325" align="center" src="https://streak-stats.demolab.com?user=sugamadhikari11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Sugam Adhikari GitHub contribution streak stats" />
 </div>
 
